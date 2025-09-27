@@ -1,5 +1,5 @@
 # Agentic AI
-## Initial code in jupyter notebook for the following, steatlh mode startup, in CrewAI, ChatGPT, Neo4j
+## Initial code in jupyter notebook for a steatlh mode startup, in CrewAI, ChatGPT, Neo4j
 1. Creating knowledge graph 
 1. Conversation agent
 2. Diagnosis agent 
